@@ -1,0 +1,8 @@
+{
+  "name": "BN_Invitational",
+  "app_id": "df4ad196",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
